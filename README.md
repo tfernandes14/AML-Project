@@ -1,6 +1,6 @@
 # AML-Project
 
-In this project, the objective was to develop create some models that could distinguish between real images and fake images.
+In this project, the objective was to develop create some modelsthat could distinguish between real images and fake images.
 
 The models implemented were the following:
 - Logistic Regression
